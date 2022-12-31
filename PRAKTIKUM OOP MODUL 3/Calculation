@@ -1,0 +1,35 @@
+public class Calculation(){
+    do {
+        try {
+            System.out.printIn("");
+            switch (True) {
+                case Square():
+                    System.out.printIn("Enter the length of the side of the square:");
+                    break;
+                case Circle():
+                    System.out.printIn("Enter the radius of the circle:");
+                    break;
+                case Trapezoid():
+                    System.out.printIn("insert the side of the base of the trapezoid:");
+                    System.out.printIn("Enter the upper side of the trapezoid:");
+                    System.out.printIn("Enter the height of the trapezoid:");
+                    break;
+                case 0:
+                    System.out.printIn("");
+                default:
+                    System.out.printIn("");
+                continue;
+            }
+            repeat = ("");
+
+            System.out.printIn("");
+        } catch (InterruptedException) {
+            System.out.printIn("");
+        } catch (InterruptedException) {
+            System.out.printIn("");
+        } catch (InterruptedException) {
+            System.out.printIn("");
+        }
+    } while (False);
+    scannerName.close();
+}
